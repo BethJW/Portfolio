@@ -1,0 +1,59 @@
+.hero {
+  background-color: antiquewhite;
+  padding-bottom: 80px;
+}
+header {
+  border-bottom: 2px solid black;
+}
+header h1 {
+  text-align: center;
+  font-size: 100px;
+}
+header .intro {
+  margin-left: 250px;
+  /* margin-top: 300px;*/
+}
+header .title {
+  margin-left: 100px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+
+.container .wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.image-me {
+  border: 1px solid black;
+  padding: 10px;
+  width: 400px;
+  height: 400px;
+}
+
+.wrapper .links {
+  margin-top: 70px;
+}
+.row a {
+  margin: 8px auto;
+  width: 300px;
+  padding: 25px;
+  margin-left: 110px;
+}
+.featured {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 25px;
+}
+.slideshow {
+  display: block;
+  margin: 20px auto;
+  max-width: 800px;
+}
+.socials a {
+  padding: 10px;
+}
+.socials p {
+  font-size: 20px;
+  padding: 10px;
+}
