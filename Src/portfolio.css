@@ -26,8 +26,19 @@
     margin: 5px auto;
   }
   .body-wrap .featured {
-    font-size: 20px;
+    font-size: 18px;
     margin-top: 5px;
+    font-weight: bold;
+  }
+  .body-wrap .featured-desc {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    font-size: 15px;
+  }
+  .body-wrap .slideshow {
+    border: none;
+    padding: 0;
   }
 }
 
