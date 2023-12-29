@@ -1,4 +1,4 @@
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .body-wrap {
     background-color: azure;
   }
@@ -41,7 +41,31 @@
     padding: 0;
   }
 }
-
+@media (min-width: 550px) {
+  .container .image-me {
+    display: flex;
+    width: 80%;
+    height: 80%;
+    margin-top: 100px;
+  }
+  .body-wrap .featured {
+    padding-top: 60px;
+  }
+}
+@media (min-width: 900px) {
+  .container .image-me {
+    display: flex;
+    width: 90%;
+    height: 90%;
+    margin-top: 55px;
+  }
+  body.container {
+    margin-left: 100px;
+  }
+  .container .row a {
+    margin: 5px auto;
+  }
+}
 header {
   background-color: azure;
 
