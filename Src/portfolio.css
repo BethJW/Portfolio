@@ -149,5 +149,12 @@ header .title {
 }
 .image-about {
   display: block;
+  margin: 50px auto;
+}
+.body-wrap .about-page {
+  margin-bottom: 80px;
+}
+.body-wrap .music .play {
+  display: block;
   margin: 0 auto;
 }
