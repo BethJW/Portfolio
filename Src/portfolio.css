@@ -135,3 +135,19 @@ header .title {
   font-size: 20px;
   padding: 10px;
 }
+
+/* About Section CSS */
+
+.about-title {
+  padding-bottom: 10px;
+}
+.about-desc {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  width: 50%;
+}
+.image-about {
+  display: block;
+  margin: 0 auto;
+}
