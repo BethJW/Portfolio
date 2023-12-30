@@ -40,6 +40,11 @@
     border: none;
     padding: 0;
   }
+  .body-wrap .image-about {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 0px;
+  }
 }
 @media (min-width: 550px) {
   .container .image-me {
@@ -145,16 +150,14 @@ header .title {
   display: block;
   margin: 20px auto;
   text-align: center;
-  width: 50%;
+  width: 75%;
 }
 .image-about {
   display: block;
   margin: 50px auto;
+  width: 500px;
+  height: 500px;
 }
 .body-wrap .about-page {
   margin-bottom: 80px;
-}
-.body-wrap .music .play {
-  display: block;
-  margin: 0 auto;
 }
