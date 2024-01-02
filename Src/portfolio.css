@@ -141,11 +141,6 @@ header .title {
   padding: 10px;
 }
 
-/* About Section CSS */
-
-.about-title {
-  padding-bottom: 10px;
-}
 .about-desc {
   display: block;
   margin: 20px auto;
@@ -158,6 +153,21 @@ header .title {
   width: 500px;
   height: 500px;
 }
-.body-wrap .about-page {
-  margin-bottom: 80px;
+.github-link {
+  font-size: 50px;
+  margin-top: -18px;
+  margin-left: -40px;
+}
+.github-link:hover {
+  transform: rotate(10deg);
+}
+.launch a {
+  width: 75%;
+  padding: 15px;
+}
+
+.app-desc {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
 }
