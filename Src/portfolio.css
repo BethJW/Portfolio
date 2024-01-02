@@ -9,7 +9,7 @@
     font-size: 60px;
     line-height: 55px;
   }
-  header .title {
+  header .title-container {
     font-size: 20px;
     margin-bottom: -140px;
   }
@@ -55,6 +55,9 @@
   }
   .body-wrap .featured {
     padding-top: 60px;
+  }
+  .app-desc {
+    max-width: 300px;
   }
 }
 @media (min-width: 900px) {
